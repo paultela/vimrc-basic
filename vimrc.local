@@ -132,7 +132,7 @@ set foldcolumn=0
 set numberwidth=2
 
 " Show me the whitespace (highlight trailing whitespace)
-set listchars=tab:>\ ,trail:-,extends:>,precedes:<,nbsp:+
+set listchars=tab:\ \ ,trail:-,extends:>,precedes:<,nbsp:+
 set list
 
 
